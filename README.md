@@ -1,8 +1,8 @@
 # Myapp
  
- Clone it using GIT CLONE "URL LINK OF REPO"
- RUN NPM I in your terminal to install module files
-  RUN ng serve --open to run it in your machine
+ #Clone it using GIT CLONE "URL LINK OF REPO"
+ #RUN NPM I in your terminal to install module files
+  #RUN ng serve --open to run it in your machine
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.2.9.
 
