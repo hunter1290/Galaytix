@@ -1,0 +1,33 @@
+/* You can add global styles to this file, and also import other style files */
+/* Add general styles for the countries list */
+.countries-list {
+    list-style: none;
+    padding: 0;
+  }
+  
+  .countries-list li {
+    margin: 10px;
+    padding: 10px;
+    background-color: #f2f2f2;
+    border: 1px solid #ccc;
+  }
+  
+  /* Define breakpoints for responsiveness */
+  @media (max-width: 768px) {
+    .countries-list li {
+      width: 100%;
+    }
+  }
+  
+  @media (min-width: 769px) and (max-width: 1024px) {
+    .countries-list li {
+      width: 48%;
+    }
+  }
+  
+  @media (min-width: 1025px) {
+    .countries-list li {
+      width: 31%;
+    }
+  }
+  
